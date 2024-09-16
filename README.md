@@ -1,2 +1,2 @@
-# progetto-d-esame
+# progetto esame
 esame Computer Graphic 2024
